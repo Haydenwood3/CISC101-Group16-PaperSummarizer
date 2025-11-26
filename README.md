@@ -1,4 +1,3 @@
 # CISC101-Group16-PaperSummarizer
-Repository for the Paper Summarizer in CISC 101
-Components include a system prompt and internal reference framework.
+Repository for the Paper Summarizer in CISC 101; omponents include a system prompt and internal reference framework.
 Internal reference framework is made up of modules describing how to handle certain scenarios.
